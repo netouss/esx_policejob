@@ -24,8 +24,8 @@ Locales['fr'] = {
   ['store_vehicle'] = 'appuyez sur ~INPUT_CONTEXT~ pour ranger le véhicule',
   -- Service
   ['service_max'] = 'Vous ne pouvez pas prendre votre service, officiers maximum en service : %s/%s',
-  ['service_not'] = 'Vous n\'êtes pas en service! Vous devez d'abord vous changez.',
-  ['service_anonunce'] = 'Information de service',
+  ['service_not'] = 'Vous n\'êtes pas en service! Vous devez d\'abord vous changez.',
+  ['service_announce'] = 'Information de service',
   ['service_in'] = 'Bon service!',
   ['service_in_announce'] = 'L\'agent ~y~%s~s~ prend son service!',
   ['service_out'] = 'Vous prenez une fin de service.',
