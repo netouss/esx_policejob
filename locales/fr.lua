@@ -60,7 +60,7 @@ Locales['fr'] = {
   ['impound_successful'] = 'vous avez saisi le véhicule',
   ['search_database'] = 'informations véhicule',
   ['search_database_title'] = 'informations sur le véhicule - recherche avec numéro d\'enregistrement',
-  ['search_database_error_invalid'] = 'Ce n\'est ~r~pas~s~ un ~y~numéro d\'enregistrement valide~s~',
+  ['search_database_error_invalid'] = 'ce n\'est ~r~pas~s~ un ~y~numéro d\'enregistrement valide~s~',
   ['search_database_error_not_found'] = 'ce ~y~numéro d\'enregistrement ~s~est~r~ pas ~s~ enregistré sur un véhicule!',
   ['search_database_found'] = 'le véhicule est ~y~enregistré~s~ à ~b~%s~s~',
   -- Traffic interaction
@@ -82,9 +82,9 @@ Locales['fr'] = {
   ['male'] = 'male',
   ['female'] = 'female',
   -- Body Search Menu
-  ['guns_label'] = '--- Armes ---',
-  ['inventory_label'] = '--- Inventaire ---',
-  ['license_label'] = ' --- Licenses ---',
+  ['guns_label'] = '--- armes ---',
+  ['inventory_label'] = '--- inventaire ---',
+  ['license_label'] = ' --- licenses ---',
   ['confiscate'] = 'confisquer %s',
   ['confiscate_weapon'] = '%s confisqué avec %s munitions',
   ['confiscate_inv'] = 'confisquer %sx %s',
@@ -124,7 +124,7 @@ Locales['fr'] = {
   ['police_stock'] = 'police Stock',
   -- Misc
   ['remove_prop'] = 'appuyez sur ~INPUT_CONTEXT~ pour enlever l\'objet',
-  ['map_blip'] = 'Commissariat',
+  ['map_blip'] = 'commissariat',
   ['unrestrained_timer'] = 'vous sentez vos menottes se désserer...',
   -- Notifications
   ['alert_police'] = 'alerte police',
